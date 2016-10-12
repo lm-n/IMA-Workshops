@@ -1,0 +1,65 @@
+html{
+	font-family: Arial;
+	font-size: 14px;
+}
+
+button{
+	display: block;
+	margin: 10px auto;
+	width: 200px;
+	height: 40px;
+	font-size: 1.5em;
+}
+
+#page-title{
+	font-size: 3em;
+	text-align: center;
+	margin: 20px 10px 40px;
+	color: white;
+  	font-family: Arial;
+  	position:fixed;
+  	z-index: 9999;
+}
+
+
+#subhead{
+	font-size: 1em;
+	text-align: center;
+	margin: 70px 10px 40px;
+	color: white;
+  	font-family: Arial;
+  	position:fixed;
+  	z-index: 9999;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+  font-family: arial;
+  z-index: 9999;
+  	position: fixed;
+    right: 0;
+  } 
+
+a:visited {
+  color: white;
+  font-family: arial;
+  text-decoration: none;
+  z-index: 9999;
+  } 
+
+a:active {
+  color: white;
+  text-decoration: none;
+  font-family: arial;
+  z-index: 9999;
+  } 
+
+a:hover {
+    color: white;
+    text-decoration: none;
+    font-family: arial;
+    z-index: 9999;
+    } 
+
+
